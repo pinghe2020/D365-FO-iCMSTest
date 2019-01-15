@@ -37,6 +37,8 @@ The Pay invoice functionality in Dynamics 365 for Retail has been expanded to su
 - Payoff of multiple sales order invoices in a single POS transaction.
 - Payment of various customer invoice types including free text invoices, project-based invoices, and credit notes.
 
+VN-Edit on Jan 15th to test xlf format
+
 To enable these scenarios, the functionality profile for stores must be configured as outlined in below.  
 
 1. Go to **Retail > Channel setup > POS setup > POS profiles > Functionality profiles** and select a profile that's linked to the stores that you want to make the changes for.
