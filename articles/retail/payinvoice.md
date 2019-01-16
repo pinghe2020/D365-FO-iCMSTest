@@ -38,11 +38,17 @@ The Pay invoice functionality in Dynamics 365 for Retail has been expanded to su
 - Payment of various customer invoice types including free text invoices, project-based invoices, and credit notes.
 
 VN-Edit on Jan 16th to test xlf format
+
 Test **Bold** > **More Bold**
+
 Test without bold > without bold
+
 Test the @ sign on its own
+
 Test the @ sign as part of text@test.com and @anothertest
+
 And test the single quote's in different 'Places'
+
 
 To enable these scenarios, the functionality profile for stores must be configured as outlined in below.  
 
