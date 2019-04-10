@@ -6,7 +6,7 @@ description: This topic describes the functionality that is designed to help use
 author: TLeforMicrosoft
 manager: AnnBe
 ms.date: 11/05/2018
-ms.topic: index-page
+ms.topic: article
 ms.prod: 
 ms.service: dynamics-ax-applications
 ms.technology: 
