@@ -14,7 +14,7 @@ ms.technology:
 # optional metadata
 
 # ms.search.form:  [Operations AOT form name to tie this topic to]
-audience: Developer
+audience: Application User
 # ms.devlang: 
 ms.reviewer: sericks
 ms.search.scope: Core, Operations
