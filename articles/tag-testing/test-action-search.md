@@ -34,6 +34,7 @@ ms.dyn365.ops.version: AX 7.0.0
 
 [!include [banner](../includes/banner.md)]
 
+VinceNO; April 10th 10:51 - Content edit to prompt file rev in iCMS
 This article describes the action search functionality in Microsoft Dynamics 365 for Finance and Operations. Action search will help you find and run actions on a page.
 
 Introduction
