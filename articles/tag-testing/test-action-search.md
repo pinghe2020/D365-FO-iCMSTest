@@ -22,7 +22,7 @@ ms.search.scope: Core, Operations
 # ms.tgt_pltfrm: 
 ms.custom: 62303
 ms.assetid: 62c70de0-fdde-4417-8e08-0583fb095a40
-ms.search.region: Germany
+ms.search.region: Germany, France
 # ms.search.industry: 
 ms.author: jasongre
 ms.search.validFrom: 2016-02-28
