@@ -22,7 +22,7 @@ ms.search.scope: Core, Operations
 # ms.tgt_pltfrm: 
 ms.custom: 62303
 ms.assetid: 62c70de0-fdde-4417-8e08-0583fb095a40
-ms.search.region: Germany, France
+ms.search.region: France
 # ms.search.industry: 
 ms.author: jasongre
 ms.search.validFrom: 2016-02-28
@@ -35,6 +35,9 @@ ms.dyn365.ops.version: AX 7.0.0
 [!include [banner](../includes/banner.md)]
 
 VinceNO; April 10th 10:51 - Content edit to prompt file rev in iCMS
+
+VinceNO; April 11th - Content edit to prompt file rev in iCMS (removing German)
+
 This article describes the action search functionality in Microsoft Dynamics 365 for Finance and Operations. Action search will help you find and run actions on a page.
 
 Introduction
