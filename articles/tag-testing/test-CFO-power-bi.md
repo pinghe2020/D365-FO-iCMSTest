@@ -31,6 +31,8 @@ ms.dyn365.ops.version: July 2017 update
 
 [!include [banner](../includes/banner.md)] 
 
+VinceNo; April 11th edit to promote iCMS version rev (audience: Application User)
+
 This topic describes the **CFO overview** Microsoft Power BI content. This Power BI content applies to those using Microsoft Dynamics 365 for Finance and Operations version 7.2. If you are using version 7.3 or later, please refer to [Financial Insights](financial-insights.md).
 
 ## Accessing the Power BI content
