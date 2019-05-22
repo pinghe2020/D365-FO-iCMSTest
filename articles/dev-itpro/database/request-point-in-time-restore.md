@@ -34,7 +34,7 @@ ms.dyn365.ops.version: AX 7.0.0
 
 [!include [banner](../includes/banner.md)]
 
-Microsoft Dynamics 365 for Finance and Operations lets you request that a database be restored to a specific point in time that is within 35 days of your request. This topic describes how to request a point-in-time restore.
+GB22052019 - Microsoft Dynamics 365 for Finance and Operations lets you request that a database be restored to a specific point in time that is within 35 days of your request. This topic describes how to request a point-in-time restore.
 
 Point-in-time restore is a Microsoft Azure SQL Database feature that can be used with Microsoft Dynamics 365 for Finance and Operations. A point-in-time restore resets a non-production environment to a known good state after destructive testing. In an emergency, you can also do a point-in-time restore on a production environment. However, to request a production restore, don't use the process that is described in this topic. Instead, you should contact Microsoft Support.
 

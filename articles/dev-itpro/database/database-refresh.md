@@ -35,7 +35,7 @@ ms.dyn365.ops.version: AX 7.0.0
 [!include [banner](../includes/banner.md)]
 [!include [banner](../includes/preview-banner.md)]
 
-You can use Microsoft Dynamics Lifecycle Services (LCS) to request a refresh of the database for Microsoft Dynamics 365 for Finance and Operations to a sandbox user acceptance testing (UAT) environment. A database refresh lets you copy the transactional database of your production environment into the target, sandbox UAT environment. This process includes copying the Financial Reporting database. If you have another sandbox environment, you can also copy the databases from that environment to your target, sandbox UAT environment.
+GB22052019 - You can use Microsoft Dynamics Lifecycle Services (LCS) to request a refresh of the database for Microsoft Dynamics 365 for Finance and Operations to a sandbox user acceptance testing (UAT) environment. A database refresh lets you copy the transactional database of your production environment into the target, sandbox UAT environment. This process includes copying the Financial Reporting database. If you have another sandbox environment, you can also copy the databases from that environment to your target, sandbox UAT environment.
 
 This functionality lets you use production data to test upcoming code changes in a UAT environment. You can also copy a production database into a UAT environment for debugging purposes.
 
