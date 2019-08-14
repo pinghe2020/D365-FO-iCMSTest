@@ -38,7 +38,7 @@ GB22052019 - This topic explains how to export a Microsoft Dynamics 365 for Fina
 
 ## Overview
 
-To move a database, you use the sqlpackage.exe command-line tool to export the database from Azure SQL Database and then import it into Microsoft SQL Server 2016. Because the file name extension for the exported data is .bacpac, this process is often referred to as the *bacpac process*.
+TestUpdate14082019 - To move a database, you use the sqlpackage.exe command-line tool to export the database from Azure SQL Database and then import it into Microsoft SQL Server 2016. Because the file name extension for the exported data is .bacpac, this process is often referred to as the *bacpac process*.
 
 The high-level process for a database move includes the following phases:
 
