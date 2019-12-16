@@ -33,6 +33,8 @@ ms.dyn365.ops.version: July 2017 update
 
 This topic describes the **CFO overview** Microsoft Power BI content. This Power BI content applies to those using Microsoft Dynamics 365 for Finance and Operations version 7.2. If you are using version 7.3 or later, please refer to [Financial Insights](financial-insights.md).
 
+16122019
+
 ## Accessing the Power BI content
 
 Reports from the **CFO overview** Power BI content are shown in the **CFO overview** workspace.
